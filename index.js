@@ -4,4 +4,4 @@ module.exports = function(width, height) {
 
 //this line is added before branch 'develop' create in remote repo.
 
-//this line is added after branch 'feature/1' create in remote and local repo
+//this line is added after branch 'feature/2' create in remote and local repo
