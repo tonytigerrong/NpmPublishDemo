@@ -8,3 +8,4 @@ module.exports = function(width, height) {
 
 1st line in feature/2
 2nd line in feature/2
+3nd line in feature/2
