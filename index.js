@@ -20,3 +20,4 @@ module.exports = function(width, height) {
 //after merge feature/2 to develop
 6th line in develop
 7th line in develop
+https://git-scm.com/book/en/v2/Git-Branching-Rebasing
