@@ -17,3 +17,8 @@ module.exports = function(width, height) {
 2nd line in feature/1
 3rd line in feature/1
 
+// after merge feature/2 to develop
+
+4th line in feature/2
+5th line in feature/2
+
