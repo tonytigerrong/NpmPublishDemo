@@ -21,3 +21,6 @@ module.exports = function(width, height) {
 6th line in develop
 7th line in develop
 https://git-scm.com/book/en/v2/Git-Branching-Rebasing
+
+8th line in initiating feature/4
+9th line in feature/4 2nd commit to feature/4
