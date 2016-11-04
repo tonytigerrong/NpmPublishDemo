@@ -1,11 +1,6 @@
-module.exports = function() {  
-  this.multiply = function(a,b){
-  	return a*b;
-  };
-  this.add = function(a,b){
-  	return a+b;
-  }
-};
+var func = module.exports = {};
+func.add = function(a,b){return a + b;};
+func.multiply = function(a,b)(return a*b;);
 
 //this line is added before branch 'develop' create in remote repo.
 
