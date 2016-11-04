@@ -1,5 +1,10 @@
-module.exports = function(width, height) {  
-  return width * height;
+module.exports = function() {  
+  this.multiply = function(a,b){
+  	return a*b;
+  };
+  this.add = function(a,b){
+  	return a+b;
+  }
 };
 
 //this line is added before branch 'develop' create in remote repo.
