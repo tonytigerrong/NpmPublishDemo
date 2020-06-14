@@ -11,6 +11,8 @@
 	(7) npm version 0.0.1
 	(8) npm publish
 	Done!
+        (9) npm unpublish npmdemo.rong -f (unpulish whole package)
+            npm unpublish npmdemo.rong@[version] (unpulish single version)
 
 2. import the module and use it
 	(1) in an other folder, import the npm module
